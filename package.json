@@ -12,7 +12,7 @@
     "lint:stylelint": "stylelint \"**/*.{css,scss,vue,html}\" --fix",
     "prepare": "husky",
     "lint:lint-staged": "lint-staged",
-    "commit": "git pull && git add -A && git-cz && git push" 
+    "commit": "git pull && git add -A && git-cz && git push"
   },
   "dependencies": {
     "vue": "^3.4.21"
